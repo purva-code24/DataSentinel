@@ -55,13 +55,14 @@ streamlit run app.py
 
 ## 📁 Project Structure
 DataSentinel/
-├── app.py            → Streamlit dashboard
-├── scanner.py        → Detection engine
-├── report.py         → PDF generator
-├── alerts.py         → Email alerts
-├── requirements.txt  → Dependencies
-└── sample_data/      → Sample dataset
-
+│
+├── 📄 app.py            → Streamlit UI dashboard
+├── 🔍 scanner.py        → Core detection engine
+├── 📋 report.py         → PDF report generator
+├── 📧 alerts.py         → Email alert system
+├── 📦 requirements.txt  → All dependencies
+├── 📁 sample_data/      → Sample dataset
+└── 📖 README.md         → Documentation
 ---
 
 ## 👩‍💻 Built By

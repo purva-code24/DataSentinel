@@ -13,7 +13,7 @@
 ---
 
 ## 🔗 Live Demo
-**👉 Coming Soon**
+**👉 [Try DataSentinel Live](https://datasentinel-howejyhe83u5nufaqktdnk.streamlit.app/)**
 
 ---
 
@@ -65,4 +65,4 @@ DataSentinel/
 ---
 
 ## 👩‍💻 Built By
-**Purva Sai** — B.Tech CSE | SIH 2025 Finalist
+**Purva Sai** 

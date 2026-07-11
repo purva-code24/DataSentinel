@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+reportlab
+openpyxl
+mysql-connector-python
